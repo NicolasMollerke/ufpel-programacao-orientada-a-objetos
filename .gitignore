@@ -2,3 +2,10 @@
 *.o
 *.pdf
 .vscode/
+/aula02/ex1/nbproject/private/
+/aula02/aula02/nbproject/private/
+/aula02/aula02/build/
+/aula02/aula03/nbproject/private/
+/aula03/nbproject/private/
+/aula03/build/
+/aula02/aula04/nbproject/private/
