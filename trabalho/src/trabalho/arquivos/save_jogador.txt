@@ -1,0 +1,3 @@
+SAUDE:5
+PERCEPCAO:1
+ITENS:bastao
